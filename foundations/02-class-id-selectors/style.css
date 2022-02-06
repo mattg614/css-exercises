@@ -10,3 +10,8 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
     background-color: #f58080;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
+
+#num2 {
+    color: #0000ff;
+    font-size: 36px;
+}
